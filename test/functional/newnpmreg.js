@@ -5,7 +5,7 @@ function readfile(x) {
 }
 
 function sha(x) {
-  return require('crypto').createHash('sha1').update(x).digest('hex')
+  return require('crypto').createHash('sha1').update(x, 'binary').digest('hex')
 }
 
 module.exports = function() {
