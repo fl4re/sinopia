@@ -7359,6 +7359,9 @@ Original style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiac
 .red-bg {
   background: #cc3d33;
 }
+.black-bg {
+  background: #090909;
+}
 .light-red-bg {
   background: #d6645c;
 }
