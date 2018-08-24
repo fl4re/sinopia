@@ -6812,6 +6812,7 @@ button.close {
   background-color: #f7f7f7;
   border-radius: 3px;
   word-wrap: normal;
+  border: none;
 }
 .readme pre > code {
   font-size: 100%;
